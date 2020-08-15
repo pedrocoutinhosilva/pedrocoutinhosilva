@@ -4,7 +4,7 @@ I’m Pedro, a Portuguese Full stack developer with over 10 years of experience 
 
 Currently working as a Front-end and R Shiny developer, moonlight practitioner of JavaScript dark arts.
 
-<div align="center">
+<div>
 
 ![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs)
 
@@ -15,12 +15,15 @@ Currently working as a Front-end and R Shiny developer, moonlight practitioner o
 ### Some stuff I'm proud of:
 
 A card swiping game built in shiny:
+
 [![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.decisions&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.decisions)
 
 Progressive Web Apps for R/Shiny:
+
 [![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.pwa&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.pwa)
 
 CSS grid implementation for R/Shiny:
+
 [![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.grid&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.grid)
 
 
