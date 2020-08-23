@@ -1,8 +1,14 @@
 ## Welcome! 👋
 
-I’m Pedro, a Portuguese Full stack developer with over 10 years of experience on the field.
+Hi! I’m Pedro, a Portuguese Full stack developer with over 10 years of experience on the field.
 
 Currently working as a Front-end and R Shiny developer, moonlight practitioner of JavaScript dark arts.
+
+#### Follow me on:
+
+[<img style="margin-right:10px" align="left" alt="twitter | Twitter" width="22px" src="icons/twitter.svg" />](https://twitter.com/sparktuga) [<img style="margin-right:10px" align="left" alt="twitter | LinkedIn" width="22px" src="icons/linkedin.svg" />](https://www.linkedin.com/in/pedrocoutinhosilva/)
+[<img style="margin-right:10px" align="left" alt="github | Github" width="22px" src="icons/github.svg" />](https://github.com/pedrocoutinhosilva)
+</br>
 
 ---
 
