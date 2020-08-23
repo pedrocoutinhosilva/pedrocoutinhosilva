@@ -21,20 +21,20 @@ Currently working as a Front-end and R Shiny developer, moonlight practitioner o
 
 #### A card swiping game built in shiny:
 
-[![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.decisions&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.decisions)
+[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.decisions&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.decisions)
 
 #### Progressive Web Apps for R/Shiny:
 
-[![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.pwa&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.pwa)
+[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.pwa&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.pwa)
 
 #### CSS grid implementation for R/Shiny:
 
-[![Decisions](https://github-readme-stats.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.grid&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.grid)
+[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.grid&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.grid)
 
 ---
 
 ## Profile stats:
 
-![Pedro's github stats](https://github-readme-stats.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs)
+![Pedro's github stats](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocoutinhosilva&theme=graywhite&layout=compact)
+![Top Langs](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/top-langs/?username=pedrocoutinhosilva&theme=graywhite&layout=compact)
