@@ -6,7 +6,8 @@ Currently working as a Front-end and R Shiny developer, moonlight practitioner o
 
 #### Follow me on:
 
-[<img style="margin-right:10px" align="left" alt="twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/twitter.svg" />](https://twitter.com/sparktuga) [<img style="margin-right:10px" align="left" alt="twitter | LinkedIn" width="22px" src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/linkedin.svg" />](https://www.linkedin.com/in/pedrocoutinhosilva/)
+[<img style="margin-right:10px" align="left" alt="twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/twitter.svg" />](https://twitter.com/sparktuga) 
+[<img style="margin-right:10px" align="left" alt="twitter | LinkedIn" width="22px" src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/linkedin.svg" />](https://www.linkedin.com/in/pedrocoutinhosilva/)
 [<img style="margin-right:10px" align="left" alt="github | Github" width="22px" src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/github.svg" />](https://github.com/pedrocoutinhosilva)
 </br>
 
