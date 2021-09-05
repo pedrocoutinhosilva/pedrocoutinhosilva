@@ -21,9 +21,9 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 ## Recent projects:
 
 <!--START_SECTION:project_feed-->
-* [Semantic Pixelator](http:&#x2F;&#x2F;localhost:8000&#x2F;blog&#x2F;semantic-pixelator&#x2F;)
-* [shiny.pwa](http:&#x2F;&#x2F;localhost:8000&#x2F;blog&#x2F;shiny-pwa&#x2F;)
-* [shiny.decisions](http:&#x2F;&#x2F;localhost:8000&#x2F;blog&#x2F;shiny-decisions&#x2F;)
+* [Semantic Pixelator](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;Pixelator)
+* [shiny.pwa](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;shiny.pwa&#x2F;index.html)
+* [shiny.decisions](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;ShinyDecisions)
 <!--END_SECTION:project_feed-->
 
 ### Find more at www.pedrocsilva.com.
