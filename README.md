@@ -8,7 +8,7 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 
 ---
 
-## Recent publications:
+## Recent articles and presentations:
 
 <!--START_SECTION:article_feed-->
 * [Scaling &amp; Infrastructure - Why is My Shiny App Slow?](https:&#x2F;&#x2F;www.rstudio.com&#x2F;resources&#x2F;scaling-and-infrastructure-why-is-my-app-slow&#x2F;)
