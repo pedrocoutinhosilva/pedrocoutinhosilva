@@ -4,14 +4,7 @@ Hi! I’m Pedro, a Portuguese Full stack developer with over 10 years of experie
 
 Currently working as a Front-end and R Shiny developer, moonlight practitioner of JavaScript dark arts.
 
-Make sure to visit www.pedrocsilva.com to learn more about my projects, tutorials, articles and presentations.
-
-#### Follow me on:
-
-[<img style="margin-right:10px" align="left" alt="twitter | Twitter" width="22px" height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/twitter.svg" />](https://twitter.com/sparktuga)
-[<img style="margin-right:10px" align="left" alt="twitter | LinkedIn" width="22px" height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/linkedin.svg" />](https://www.linkedin.com/in/pedrocoutinhosilva/)
-[<img style="margin-right:10px" align="left" alt="github | Github" width="22px"  height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/github.svg" />](https://github.com/pedrocoutinhosilva)
-</br>
+Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles and presentations. Or check my most recent work below.
 
 ---
 
@@ -25,8 +18,6 @@ Make sure to visit www.pedrocsilva.com to learn more about my projects, tutorial
 * [No Framework, No Problem! Structuring your project and creating custom components](http:&#x2F;&#x2F;localhost:8000&#x2F;articles&#x2F;no-framework-no-problem&#x2F;)
 <!--END_SECTION:article_feed-->
 
----
-
 ## Recent projects:
 
 <!--START_SECTION:project_feed-->
@@ -35,25 +26,18 @@ Make sure to visit www.pedrocsilva.com to learn more about my projects, tutorial
 * [shiny.decisions](http:&#x2F;&#x2F;localhost:8000&#x2F;blog&#x2F;shiny-decisions&#x2F;)
 <!--END_SECTION:project_feed-->
 
----
+### Find more at www.pedrocsilva.com.
 
-## Some code stuff I'm proud of:
+### Or follow me on:
 
-#### A card swiping game built in shiny:
-
-[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.decisions&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.decisions)
-
-#### Progressive Web Apps for R/Shiny:
-
-[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.pwa&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.pwa)
-
-#### CSS grid implementation for R/Shiny:
-
-[![Decisions](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/pin/?username=pedrocoutinhosilva&repo=shiny.grid&theme=graywhite)](https://github.com/pedrocoutinhosilva/shiny.grid)
+[<img style="margin-right:10px" align="left" alt="twitter | Twitter" width="22px" height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/twitter.svg" />](https://twitter.com/sparktuga)
+[<img style="margin-right:10px" align="left" alt="twitter | LinkedIn" width="22px" height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/linkedin.svg" />](https://www.linkedin.com/in/pedrocoutinhosilva/)
+[<img style="margin-right:10px" align="left" alt="github | Github" width="22px"  height="22px"  src="https://raw.githubusercontent.com/pedrocoutinhosilva/pedrocoutinhosilva/master/icons/github.svg" />](https://github.com/pedrocoutinhosilva)
+</br>
 
 ---
 
-## Profile stats:
+## Some more statistics, for fun:
 
 ![Pedro's github stats](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs)
 
