@@ -14,5 +14,9 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://appsilon.com/author/pedro/feed/
-          readme-section: blog_feed
+          feed-url: https://www.pedrocsilva.com/articles.xml
+          readme-section: article_feed
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://www.pedrocsilva.com/projects.xml
+          readme-section: project_feed
