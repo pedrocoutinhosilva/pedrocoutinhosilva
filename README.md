@@ -39,6 +39,4 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 
 ## Some more statistics, for fun:
 
-![Pedro's github stats](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs)
-
-![Top Langs](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/top-langs/?username=pedrocoutinhosilva&theme=graywhite&layout=compact)
+![Pedro's github stats](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api?username=pedrocoutinhosilva&theme=graywhite&show_icons=true&count_private=true&hide=contribs,issues,prs) ![Top Langs](https://github-readme-stats.pedrocoutinhosilva.vercel.app/api/top-langs/?username=pedrocoutinhosilva&theme=graywhite&layout=compact)
