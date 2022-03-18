@@ -21,6 +21,7 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 ## Recent projects:
 
 <!--START_SECTION:project_feed-->
+* [Ukraine Border Tracker](http:&#x2F;&#x2F;uaborder.com&#x2F;)
 * [imola](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;imola&#x2F;index.html)
 * [Semantic Pixelator](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;Pixelator)
 * [shiny.pwa](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;shiny.pwa&#x2F;index.html)
