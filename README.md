@@ -11,7 +11,7 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 ## Recent articles and presentations:
 
 <!--START_SECTION:article_feed-->
-* [Shiny Developer Series - Episode 23: Tales of Shiny in production with Pedro Silva](https:&#x2F;&#x2F;shinydevseries.com&#x2F;post&#x2F;episode-23-psilva&#x2F;)
+* [Shiny Developer Series - Episode 23: Tales of Shiny in production with Pedro Silva](https:&#x2F;&#x2F;shinydevseries.com&#x2F;interview&#x2F;ep023&#x2F;)
 * [Scaling &amp; Infrastructure - Why is My Shiny App Slow?](https:&#x2F;&#x2F;www.rstudio.com&#x2F;resources&#x2F;scaling-and-infrastructure-why-is-my-app-slow&#x2F;)
 * [R Shiny Masterclass: Building, Styling, and Scaling Shiny Applications - Styling Shiny](https:&#x2F;&#x2F;youtu.be&#x2F;MYVojGHeKAc?t&#x3D;1759)
 * [R Shiny Masterclass: Building, Styling, and Scaling Shiny Applications - Speeding up Shiny](https:&#x2F;&#x2F;youtu.be&#x2F;MYVojGHeKAc?t&#x3D;3201)
