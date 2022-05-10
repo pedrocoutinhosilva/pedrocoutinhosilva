@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-Hi! I’m Pedro, a Portuguese Full stack developer with over 10 years of experience on the field.
+Hi! I’m Pedro, a Portuguese Full stack developer with over 15 years of experience on the field.
 
 Currently working as a Front-end and R Shiny developer, moonlight practitioner of JavaScript dark arts.
 
