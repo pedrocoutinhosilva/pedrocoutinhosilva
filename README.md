@@ -11,11 +11,11 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 ## Recent articles and presentations:
 
 <!--START_SECTION:article_feed-->
+* [Masterclass: Top Innovations in Shiny in 2022](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ml9BGSzI8CU&amp;ab_channel&#x3D;Appsilon)
+* [Shiny Developer Series Panel - Special Episode](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;v0hk5xteYjQ&amp;ab_channel&#x3D;ShinyDeveloperSeries)
+* [Discussion Panel: How to Win the Posit (RStudio) Shiny Contest?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ml9BGSzI8CU&amp;ab_channel&#x3D;Appsilon)
 * [Shiny Developer Series - Episode 23: Tales of Shiny in production with Pedro Silva](https:&#x2F;&#x2F;shinydevseries.com&#x2F;interview&#x2F;ep023&#x2F;)
 * [Scaling &amp; Infrastructure - Why is My Shiny App Slow?](https:&#x2F;&#x2F;www.rstudio.com&#x2F;resources&#x2F;scaling-and-infrastructure-why-is-my-app-slow&#x2F;)
-* [R Shiny Masterclass: Building, Styling, and Scaling Shiny Applications - Styling Shiny](https:&#x2F;&#x2F;youtu.be&#x2F;MYVojGHeKAc?t&#x3D;1759)
-* [R Shiny Masterclass: Building, Styling, and Scaling Shiny Applications - Speeding up Shiny](https:&#x2F;&#x2F;youtu.be&#x2F;MYVojGHeKAc?t&#x3D;3201)
-* [Why Is My Dashboard Ugly? A Crash Course in Shiny Dashboard UI](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;MQ7B4y1Y4ew&amp;ab_channel&#x3D;Appsilon)
 <!--END_SECTION:article_feed-->
 
 ## Recent projects:
