@@ -21,11 +21,11 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 ## Recent projects:
 
 <!--START_SECTION:project_feed-->
+* [hexFinder](https:&#x2F;&#x2F;anatomyofcode.com&#x2F;hexFinder&#x2F;)
+* [r-infographics](http:&#x2F;&#x2F;r-infographics.com&#x2F;)
+* [rwfc](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;shinywfc&#x2F;)
 * [Ukraine Border Tracker](http:&#x2F;&#x2F;uaborder.com&#x2F;)
 * [imola](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;imola&#x2F;index.html)
-* [Semantic Pixelator](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;Pixelator)
-* [shiny.pwa](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;shiny.pwa&#x2F;index.html)
-* [shiny.decisions](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;ShinyDecisions)
 <!--END_SECTION:project_feed-->
 
 ### Find more at www.pedrocsilva.com.
