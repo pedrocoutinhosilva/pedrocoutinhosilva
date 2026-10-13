@@ -1,10 +1,12 @@
 ## Welcome! 👋
 
-Hi! I’m Pedro, a Portuguese Full stack developer with over 15 years of experience on the field.
+Hi! I'm Pedro, a Portuguese full-stack developer with over 15 years of experience, based in Warsaw.
 
-Currently working as a Front-end and R Shiny developer, moonlight practitioner of JavaScript dark arts.
+I'm a Principal Data Scientist at [Jumping Rivers](https://www.jumpingrivers.com), where I lead client R and Shiny work and the development of the [Litmus](https://www.jumpingrivers.com/litmus/) validation framework. Before that I spent six years at Appsilon. Front-end at heart, and a moonlight practitioner of JavaScript dark arts.
 
-Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles and presentations. Or check my most recent work below.
+Lately I've been building with AI coding agents: [shinyprobe](https://github.com/pedrocoutinhosilva/shinyprobe) is an MCP server that lets agents drive and inspect running Shiny apps.
+
+Visit [www.pedrocsilva.com](https://www.pedrocsilva.com) for my projects, talks and articles, or see my most recent work below.
 
 ---
 
@@ -28,7 +30,7 @@ Visit www.pedrocsilva.com to learn more about my projects, tutorials, articles a
 * [imola](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;imola&#x2F;index.html)
 <!--END_SECTION:project_feed-->
 
-### Find more at www.pedrocsilva.com.
+### Find more at [www.pedrocsilva.com](https://www.pedrocsilva.com).
 
 ### Or follow me on:
 
