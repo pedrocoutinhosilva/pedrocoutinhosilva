@@ -23,11 +23,11 @@ Visit [www.pedrocsilva.com](https://www.pedrocsilva.com) for my projects, talks 
 ## Recent projects:
 
 <!--START_SECTION:project_feed-->
+* [shinyprobe](https:&#x2F;&#x2F;github.com&#x2F;pedrocoutinhosilva&#x2F;shinyprobe)
 * [hexFinder](https:&#x2F;&#x2F;anatomyofcode.com&#x2F;hexFinder&#x2F;)
 * [r-infographics](http:&#x2F;&#x2F;r-infographics.com&#x2F;)
-* [rwfc](https:&#x2F;&#x2F;sparktuga.shinyapps.io&#x2F;shinywfc&#x2F;)
-* [Ukraine Border Tracker](http:&#x2F;&#x2F;uaborder.com&#x2F;)
-* [imola](https:&#x2F;&#x2F;cran.r-project.org&#x2F;web&#x2F;packages&#x2F;imola&#x2F;index.html)
+* [rwfc](https:&#x2F;&#x2F;github.com&#x2F;pedrocoutinhosilva&#x2F;rwfc)
+* [Ukraine Border Tracker](https:&#x2F;&#x2F;uaborder.com&#x2F;)
 <!--END_SECTION:project_feed-->
 
 ### Find more at [www.pedrocsilva.com](https://www.pedrocsilva.com).
