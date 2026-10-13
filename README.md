@@ -13,11 +13,11 @@ Visit [www.pedrocsilva.com](https://www.pedrocsilva.com) for my projects, talks 
 ## Recent articles and presentations:
 
 <!--START_SECTION:article_feed-->
-* [Masterclass: Top Innovations in Shiny in 2022](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ml9BGSzI8CU&amp;ab_channel&#x3D;Appsilon)
-* [Shiny Developer Series Panel - Special Episode](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;v0hk5xteYjQ&amp;ab_channel&#x3D;ShinyDeveloperSeries)
-* [Discussion Panel: How to Win the Posit (RStudio) Shiny Contest?](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;Ml9BGSzI8CU&amp;ab_channel&#x3D;Appsilon)
-* [Shiny Developer Series - Episode 23: Tales of Shiny in production with Pedro Silva](https:&#x2F;&#x2F;shinydevseries.com&#x2F;interview&#x2F;ep023&#x2F;)
-* [Scaling &amp; Infrastructure - Why is My Shiny App Slow?](https:&#x2F;&#x2F;www.rstudio.com&#x2F;resources&#x2F;scaling-and-infrastructure-why-is-my-app-slow&#x2F;)
+* [PSI 2026: Validating Shiny apps in regulated environments with the Litmusverse](https:&#x2F;&#x2F;www.jumpingrivers.com&#x2F;litmus&#x2F;)
+* [Shiny in Production 2025: Figma and User-Interface Design](https:&#x2F;&#x2F;www.jumpingrivers.com&#x2F;blog&#x2F;sip2025-shiny-conference-summary&#x2F;)
+* [R&#x2F;Medicine 2025: Validating Shiny Apps in Regulated Environments](https:&#x2F;&#x2F;r-consortium.org&#x2F;posts&#x2F;validating-shiny-apps-in-regulated-environments&#x2F;)
+* [Shiny in Production 2024: Convincing IT that R packages are safe](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;kgsBDcjC3d0)
+* [Shiny in Production 2024: Building Responsive Shiny Applications](https:&#x2F;&#x2F;www.jumpingrivers.com&#x2F;blog&#x2F;shiny-in-production-highlights-2024&#x2F;)
 <!--END_SECTION:article_feed-->
 
 ## Recent projects:
